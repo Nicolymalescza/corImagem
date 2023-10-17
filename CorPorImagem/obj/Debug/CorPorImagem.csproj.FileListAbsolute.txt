@@ -1,0 +1,11 @@
+C:\Users\2022102020053\Documents\IFRO 2ANO\POO\4Bimeste\CorPorImagem\CorPorImagem\bin\Debug\CorPorImagem.exe.config
+C:\Users\2022102020053\Documents\IFRO 2ANO\POO\4Bimeste\CorPorImagem\CorPorImagem\bin\Debug\CorPorImagem.exe
+C:\Users\2022102020053\Documents\IFRO 2ANO\POO\4Bimeste\CorPorImagem\CorPorImagem\bin\Debug\CorPorImagem.pdb
+C:\Users\2022102020053\Documents\IFRO 2ANO\POO\4Bimeste\CorPorImagem\CorPorImagem\obj\Debug\CorPorImagem.csproj.AssemblyReference.cache
+C:\Users\2022102020053\Documents\IFRO 2ANO\POO\4Bimeste\CorPorImagem\CorPorImagem\obj\Debug\CorPorImagem.csproj.SuggestedBindingRedirects.cache
+C:\Users\2022102020053\Documents\IFRO 2ANO\POO\4Bimeste\CorPorImagem\CorPorImagem\obj\Debug\CorPorImagem.Form1.resources
+C:\Users\2022102020053\Documents\IFRO 2ANO\POO\4Bimeste\CorPorImagem\CorPorImagem\obj\Debug\CorPorImagem.Properties.Resources.resources
+C:\Users\2022102020053\Documents\IFRO 2ANO\POO\4Bimeste\CorPorImagem\CorPorImagem\obj\Debug\CorPorImagem.csproj.GenerateResource.cache
+C:\Users\2022102020053\Documents\IFRO 2ANO\POO\4Bimeste\CorPorImagem\CorPorImagem\obj\Debug\CorPorImagem.csproj.CoreCompileInputs.cache
+C:\Users\2022102020053\Documents\IFRO 2ANO\POO\4Bimeste\CorPorImagem\CorPorImagem\obj\Debug\CorPorImagem.exe
+C:\Users\2022102020053\Documents\IFRO 2ANO\POO\4Bimeste\CorPorImagem\CorPorImagem\obj\Debug\CorPorImagem.pdb
